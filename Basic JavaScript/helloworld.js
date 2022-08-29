@@ -3,4 +3,4 @@
  let => closed scope
  const closed unchangable
  */
-console.log("Hello World")
+console.log("Hello World");
