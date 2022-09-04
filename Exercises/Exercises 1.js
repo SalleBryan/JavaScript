@@ -9,4 +9,4 @@ function reverseNum(num) {
     ) * Math .sign(num)
     )
 }
-let num = 32243;
+console.log(reverseNum(32243));
